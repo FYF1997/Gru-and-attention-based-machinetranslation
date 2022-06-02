@@ -1,2 +1,5 @@
 # Gru-and-attention-based-machinetranslation
 Gru and attention based machinetranslation
+基于GRU与Attention机制的机器翻译
+先运行seq2seq用以训练并保存模型
+最后使用evaluate_cmn_eng使用模型并进行翻译
